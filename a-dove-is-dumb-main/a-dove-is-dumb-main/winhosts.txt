@@ -1,3 +1,30 @@
+# Title: ignaciocastro/a-dove-is-dumb
+#
+# This hosts file provides a curated list of Adobe telemetry
+# and background service domains, designed to block tracking
+# and integrity-check communication while preserving normal
+# application functionality.
+#
+# Source: https://github.com/ignaciocastro/a-dove-is-dumb
+# Maintained via community contributions on GitHub
+#
+# Date: 03 April 2026 (UTC)
+# Latest known update: 06 December 2025 (UTC)
+# Note: Includes multiple formats (standard, 127.0.0.1, Pi-hole,
+# Windows hosts, IPv6, etc.) and may vary depending on selected file
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/list.txt
+#
+# Alternative formats:
+# https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/127.txt
+# https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/pihole.txt
+# https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/winhosts.txt
+#
+# Project home page:
+# https://github.com/ignaciocastro/a-dove-is-dumb
+#
+# ===============================================================
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows
