@@ -1,3 +1,22 @@
+# Title: ethanaicode/Adobe-Block-Hosts-List
+#
+# This hosts file contains domains used by Adobe applications,
+# commonly blocked to restrict background services such as
+# activation, telemetry, and update checks.
+#
+# Source: https://github.com/ethanaicode/Adobe-Block-Hosts-List
+# Maintained via community contributions on GitHub
+#
+# Date: 03 April 2026 (UTC)
+# Note: Domain count may vary depending on updates in the repository
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/ethanaicode/Adobe-Block-Hosts-List/main/hosts
+#
+# Project home page:
+# https://github.com/ethanaicode/Adobe-Block-Hosts-List
+#
+# ===============================================================
 ####
 
 # Adobe Start
