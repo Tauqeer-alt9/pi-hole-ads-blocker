@@ -1,0 +1,13 @@
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2026-03-31
+# Area120
+
+0.0.0.0 kormo.com
+0.0.0.0 rivet.area120.com
+0.0.0.0 staykeen.com
+0.0.0.0 storysavant.appspot.com
+0.0.0.0 tangi.co
+0.0.0.0 www.kormo.com
+0.0.0.0 www.rivet.area120.com
+0.0.0.0 www.staykeen.com
+0.0.0.0 www.tangi.co

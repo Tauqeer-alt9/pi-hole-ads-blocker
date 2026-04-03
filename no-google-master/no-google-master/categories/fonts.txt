@@ -1,0 +1,6 @@
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2026-03-31
+# Fonts
+
+0.0.0.0 fonts.google.com
+0.0.0.0 fonts.googleapis.com

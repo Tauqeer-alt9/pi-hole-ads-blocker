@@ -1,0 +1,13 @@
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2026-03-31
+# Fiber
+
+0.0.0.0 atlanta.speed.googlefiber.net
+0.0.0.0 austin.speed.googlefiber.net
+0.0.0.0 charlotte.speed.googlefiber.net
+0.0.0.0 googlefiber.net
+0.0.0.0 kansas.speed.googlefiber.net
+0.0.0.0 nashville.speed.googlefiber.net
+0.0.0.0 raleigh.speed.googlefiber.net
+0.0.0.0 speedtest.googlefiber.net
+0.0.0.0 stanford.speed.googlefiber.net

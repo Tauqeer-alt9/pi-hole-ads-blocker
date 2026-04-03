@@ -1,0 +1,9 @@
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2026-03-31
+# Jibemobile
+
+0.0.0.0 docs.jibemobile.com
+0.0.0.0 jibe.google.com
+0.0.0.0 jibemobile.com
+0.0.0.0 rcs-acs-virgin-mobile-uk.jibe.google.com
+0.0.0.0 www.jibemobile.com
