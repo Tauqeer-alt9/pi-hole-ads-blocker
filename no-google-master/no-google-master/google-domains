@@ -1,3 +1,32 @@
+# Title: nickspaargaren/no-google
+#
+# This hosts/blocklist project is designed to completely block
+# Google services, domains, and related infrastructure, helping
+# users reduce tracking, telemetry, and dependency on Google.
+#
+# Source: https://github.com/nickspaargaren/no-google
+# Maintained via community contributions on GitHub
+#
+# Date: 03 April 2026 (UTC)
+# Note: Includes multiple formats such as hosts, domains,
+# wildcard, and Pi-hole compatible lists
+#
+# Fetch the main blocklist:
+# https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
+#
+# Additional categorized lists:
+# https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed
+# https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed
+# https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtubeparsed
+# https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/domainsparsed
+#
+# Project home page:
+# https://github.com/nickspaargaren/no-google
+#
+# Description:
+# Completely block Google and its services for privacy-focused setups
+#
+# ===============================================================
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
 # Last updated: 2026-03-31
 # Analytics
