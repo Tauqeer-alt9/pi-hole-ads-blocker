@@ -1,3 +1,22 @@
+# Title: Ruddernation-Designs/Adobe-URL-Block-List
+#
+# This hosts file contains a collection of Adobe-related domains
+# and endpoints commonly blocked to prevent background communication
+# such as activation, licensing checks, telemetry, and updates.
+#
+# Source: https://github.com/Ruddernation-Designs/Adobe-URL-Block-List
+# Maintained via community contributions on GitHub
+#
+# Date: 03 April 2026 (UTC)
+# Note: Domain count may vary depending on updates in the repository
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/Ruddernation-Designs/Adobe-URL-Block-List/main/hosts
+#
+# Project home page:
+# https://github.com/Ruddernation-Designs/Adobe-URL-Block-List
+#
+# ===============================================================
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
